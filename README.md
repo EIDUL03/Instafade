@@ -4,10 +4,10 @@ A simple browser extension that turns Instagram completely grayscale to reduce v
 
 ## Features
 
-- 🖤 Removes Instagram's colorful appearance
-- 📚 Helps reduce visual distractions while studying
-- ⚡ Lightweight and simple
-- 🔒 No account or personal information required
+-  Removes Instagram's colorful appearance
+-  Helps reduce visual distractions while studying
+-  Lightweight and simple
+-  No account or personal information required
 
 ## Installation
 
