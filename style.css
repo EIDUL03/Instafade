@@ -1,0 +1,26 @@
+/* Instagram Grayscale - Full Black, White & Gray */
+
+html,
+body {
+    filter: grayscale(100%) !important;
+}
+
+/* Images */
+img {
+    filter: grayscale(100%) !important;
+}
+
+/* Videos / Reels */
+video {
+    filter: grayscale(100%) !important;
+}
+
+/* SVG icons and logos */
+svg {
+    filter: grayscale(100%) !important;
+}
+
+/* Canvas elements */
+canvas {
+    filter: grayscale(100%) !important;
+}
