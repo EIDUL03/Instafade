@@ -1,4 +1,4 @@
-# Instagram Grayscale
+# Instafade
 
 A simple browser extension that turns Instagram completely grayscale to reduce visual distractions.
 
@@ -18,9 +18,9 @@ A simple browser extension that turns Instagram completely grayscale to reduce v
 3. Open your browser's extensions page.
 4. Enable **Developer mode**.
 5. Select **Load unpacked**.
-6. Select the extracted `Instagram-Grayscale` folder.
+6. Select the extracted `Instafade` folder.
 7. Open Instagram.
 
 ## Note
 
-Instagram Grayscale is an independent third-party extension and is not affiliated with or endorsed by Instagram or Meta.
+Instafade is an independent third-party extension and is not affiliated with or endorsed by Instagram or Meta.
